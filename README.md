@@ -1,7 +1,7 @@
 # CPML: Clustered Prototypical Meta-Learning Framework for Few-Shot Learning
 
 This repository contains the code for: CPML: Clustered Prototypical Meta-Learning Framework for Few-Shot Learning<br>
-<img src="D:\Projects\Ai\CPML框架v2.png" style="zoom: 67%;" />
+<img src="[D:\Projects\Ai\CPML框架v2.png" style="zoom: 67%;](https://github.com/image0527/cpml-code/blob/main/CPML-v2.png)" />
 Our code is based on [few-shot-meta-baseline](https://github.com/yinboc/few-shot-meta-baseline).
 
 ## Requirements
